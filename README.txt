@@ -1,0 +1,1 @@
+Ceci est un plugin pour l'entreprise Hono sur Wordpress avec un système de shortcode.
